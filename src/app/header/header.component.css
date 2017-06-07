@@ -1,0 +1,12 @@
+.brand-holder{
+    background-color: #008069;
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+.brand-holder span{
+    font-size: 35px;
+    font-weight: bold;
+    color: #FFF;
+}

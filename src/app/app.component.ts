@@ -6,5 +6,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'app works!';
+  title = 'Purwadhika!';
+  info = 'Promosi hanya untuk hari ini, silahkan berbelanja sekarang';
+
+  buyMe(){
+    alert('Anda akan membeli barang');
+    console.log('Nama Barang: Sepatu')
+  }
 }
